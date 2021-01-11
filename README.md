@@ -1,2 +1,2 @@
 # SQL-NAEP-data-exercise
-Word document of SQL statements querying NAEP dataset
+This SQL query returns information gleaned from questions regarding test scores in the US, based on publicly available data on the National Assessment of Educational Progress.  The queries return summary stats in alphabetical order, states that improved by 30 or more points, the bottom 10 states in 2000, average math scores ranked, any states with missing scores, and test scores compared with state expenditures.
